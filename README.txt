@@ -1,0 +1,1 @@
+Explication globale de l'essence de ce projet et de sa finalité
